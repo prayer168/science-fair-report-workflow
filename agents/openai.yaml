@@ -1,0 +1,4 @@
+interface:
+  display_name: "科展作品書整合檢查與共編更新"
+  short_description: "逐章檢查與學生觀點定稿，核對APA、篇幅和排版，再保留原連結更新共編檔"
+  default_prompt: "使用 $update-shared-drive-document 整合修改後的科展作品書，依原大標題自行修正各章並檢查全書完整性，再更新原共編檔、保留學生權限與連結並驗證。"
